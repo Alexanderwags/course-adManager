@@ -171,3 +171,73 @@ Nivel superior: red = Día a Día
 Segundo nivel: sección = deportes
 Tercer nivel = fútbol
 
+
+/*******************************************************************************************************************************/
+								
+						       Genera etiquetas de anuncios
+
+Google Publisher Tags (GPT) es una biblioteca de etiquetas de anuncios que permite crear solicitudes de anuncios
+ dinámicas a los editores que utilizan Ad Manager.
+
+
+Etiquetas de anuncios
+Las etiquetas GPT, como todas las etiquetas de anuncio, son fragmentos de código que se integran en 
+el código fuente de una página web para que el servidor de anuncios pueda comunicarse con el navegador del usuario.
+ Cuando un usuario visita una de estas páginas, la etiqueta solicita una creatividad a 
+Ad Manager e inserta el código de la creatividad en la página para medir su rendimiento basándose en métricas como el número de clics,
+ la visibilidad, el porcentaje de visualizaciones, etc.
+
+
+Crea etiquetas GPT.
+
+
+
+Se pueden crear manualmente, pero Ad Manager incluye un generador de etiquetas que podéis usar tanto el desarrollador 
+como tú para crear las etiquetas que correspondan.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+						Crea emplazamientos
+
+
+son secciones de varios anuncios 
+
+/****************************************************************************************************************************************/
+
+						Mejora tu puntuación de Active View en Ad Manager
+
+concepto de "visibilidad" : Utiliza la métrica de visibilidad para hacer un seguimiento de las impresiones. Gracias a las métricas de Active View,
+podrás medir el éxito de los anuncios de tu sitio web o aplicación.
+
+Condiciones de visibilidad de Active View
+
+La solución Active View de Google no solo se ajusta a la definición de "visibilidad" del Interactive Advertising Bureau (IAB), sino que también ha recibido la acreditación del Media Rating Council (MRC, consejo de calificación de medios de Estados Unidos).
+En dicha solución, las métricas de visibilidad se desglosan de esta manera:
+
+Impresiones aptas
+Impresiones medibles
+Impresiones visibles
+
+
+/*****************************************************************************************************************************************/
+
+						 Descubre los ajustes de publicación de las líneas de pedido
+
+
+¿Qué se puede hacer en la sección "Ajustar entrega" al crear o modificar líneas de pedido?
+
+Una vez que introduzcas los datos de la línea de pedido y la configures, verás una sección opcional llamada Ajustar entrega,
+en la que puedes configurar los siguientes elementos:
+
+Entrega de impresiones
+Creatividades de display
+Rotación de creatividades
+Entrega en días determinados o a ciertas horas
+Límites de frecuencia
+
+
+
+
+
+
