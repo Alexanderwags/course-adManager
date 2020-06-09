@@ -72,9 +72,102 @@ Fijo
 Diariamente
 Mensualmente
 
+Vincula tus cuentas de Ad Exchange y de AdSense
+
+Habilita el acceso y la autorización
+
+En la página Acceso y autorización de la pestaña Administrar, puedes crear y editar los usuarios de tu red, así como sus permisos.
+En la opción Usuarios puedes ver, añadir y editar los usuarios de tu red, así como asignarles funciones.
+
+configurar el formulario de consentimiento para los usuarios de la Unión Europea
+
+----------------------------------------------------------------------------------------------------------------------------------
+							Crea un archivo ads.txt en Ad Manager
+
+Uno de los mayores problemas del sector programático es la distribución no autorizada de contenido. 
+Los archivos ads.txt son una iniciativa del Interactive Advertising Bureau (IAB), 
+cuyo objetivo es mejorar la transparencia de la publicidad programática.
+
+¿Qué son los archivos ads.txt? 
+
+Los vendedores digitales autorizados, recogidos en el archivo ads.txt, 
+son una iniciativa del Interactive Advertising Bureau (IAB),
+ cuyo objetivo es mejorar la transparencia de la publicidad programática.
+
+¿Por qué son tan importantes los archivos ads.txt?
+
+Utilizar un archivo ads.txt no es obligatorio, pero sí muy recomendable, 
+ya que te permite proteger tu marca frente a inventario no autorizado que, de forma malintencionada,
+ se haya etiquetado como procedente de un dominio, una aplicación o un vídeo específicos, 
+cuando en realidad no es así. Si marcas a vendedores como "no autorizados", 
+conseguirás que los anunciantes inviertan en tu sitio web o aplicación en lugar de en ese inventario.
+
+
+¿Sabías que…?
+
+El generador de archivos ads.txt solo facilita información de las cuentas de vendedores de Google.
+ Si colaboras con otros SSP o exchanges, asegúrate de introducir sus datos correctamente.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+							
+							seguimiento de los cambios mediante las opciones de Administrar
 
 
 
+¿Sabías que…?
+
+La pestaña Administrar no es el único lugar en el que puedes ver el historial de cambios
+: puedes acceder a la misma información pulsando el botón del historial cuando consultes un pedido, una línea de pedido o una creatividad en concreto.
 
 
+
+/******************************************************************************************************************************************************/
+
+						Inventario y bloques de anuncios: Introducción
+
+Definición de inventario
+
+En la mayoría de los negocios, el término "inventario" hace referencia a los productos que se tienen a la venta. 
+Sin embargo, en los sitios web se refiere al espacio publicitario reservado para el contenido de los anunciantes.
+Imagina que imprimes en una cartulina la página principal de tu sitio web y recortas todos los espacios publicitarios.
+Todos esos espacios vacíos, en los que se mostrarán anuncios, componen el inventario publicitario de Ad Manager que puedes vender a los anunciantes.
+
+Anuncios de display
+
+Antes de enseñarte a crear un inventario, veamos en qué tipos de plataformas puedes publicar tus anuncios. 
+Hay tres categorías: display, in-app móvil y vídeo. Comencemos por los anuncios de display
+Los anuncios de display son anuncios que puedes ver en el navegador web de un ordenador o dispositivo móvil. 
+Piensa en los anuncios que ves mientras navegas por tu sitio web favorito, como los banners de la parte superior o los skyscrapers a ambos lados.
+
+Anuncios in-app móviles
+
+Los anuncios in-app móviles se muestran en aplicaciones móviles 
+y no deben confundirse con los anuncios de la Web móvil, que son de display.
+
+Anuncios de vídeo
+Los anuncios de vídeo, así como los que se muestran en juegos,
+ se diferencian de los anuncios de display y de los in-app móviles en que interactúan con un reproductor de vídeo,
+ por lo que se programan de forma distinta.
+
+¿Cómo se organizan los bloques de anuncios?
+
+Los bloques de anuncios tienen una relación por niveles (con el formato "principal-secundario"). 
+Los anuncios dirigidos al bloque de anuncios del nivel superior (el principal) también se dirigen a los bloques del nivel inferior (los secundarios).
+Puedes anidar bloques de anuncios secundarios que tengan relación entre sí en un bloque de anuncios del nivel superior.
+
+¿Sabías que...?
+
+Si gestionas muchas propiedades, como varios sitios web, aplicaciones o sitios web móviles, 
+lo mejor es que vayas a lo sencillo. Utiliza bloques de anuncios de nivel superior en todas las propiedades.
+
+
+Jerarquía de los bloques de anuncios
+
+ 
+por ejemplo, tienes un sitio web de noticias, puedes aprovechar la jerarquía de los bloques de anuncios para estructurar el inventario de esta manera:
+
+Nivel superior: red = Día a Día
+Segundo nivel: sección = deportes
+Tercer nivel = fútbol
 
