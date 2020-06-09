@@ -1,0 +1,80 @@
+Google Ad Manager 
+
+-ayuda a tener ingresos por publicidad esto nos ofrece 3 servicios 
+1- mas acceso a los anunciantes 
+2- Mas Lugares
+3- Mas Estadisticas y optimizaciones 
+4- mas protecciones 
+5- Mas tiempo 
+
+
+posee funciones se divide en 
+
+- Formato
+- Video
+- Gestion de rendimiento 
+- Datos y Estadistica
+- Seguridad de la marca
+
+
+/****----- servicio de anuncios -----*******/
+
+El proceso de servicio de anuncios comienza con una idea, un plan, un usuario, una cuenta y una red.
+
+proceso 
+1.1 Ad Manager genera etiquetas de anuncio por cada bloque de anuncios, que son fragmentos de código HTML o
+    JavaScript que se insertan en las páginas web y las aplicaciones móviles de los anunciantes.
+1.2 La finalidad de cualquier anuncio es mostrar el mensaje apropiado a la persona adecuada y en el momento oportuno.
+1.3 Este fragmento de código se denomina "etiqueta de anuncio", ya que es una etiqueta en la que se indica
+    qué anuncios debe incluir Ad Manager en el sitio web o la aplicación.
+1.4 El código de la etiqueta de anuncio contiene parámetros específicos que se envían al servidor de Ad Manager. Con ellos, 
+    la solución puede saber qué anuncio debe buscar.
+1.5 Ad Manager analiza todos los anuncios disponibles y relaciona los parámetros de la etiqueta de anuncio con los datos basados en la dirección IP y el navegador,
+    como la ubicación geográfica o el sistema operativo.
+1.6 Cuando localiza un anuncio que cumple todos los criterios de la etiqueta de anuncio y se lo muestra al usuario, 
+    se registra una impresión, lo que demuestra que el anuncio se ha publicado
+1.7 Ad Manager también registra los clics que hacen los usuarios en los anuncios.
+
+Este proceso de comunicación entre la página web, el servidor web y el servidor de anuncios 
+es en lo que se basa Ad Manager para servir anuncios tanto a sitios web como aplicaciones.
+
+Ad manager maneja una jergas para los anuncios de los clientes 
+
+a) Anunciante
+b) Creatividad de anuncio
+c) Solicitud de anuncio 
+d) Comprador 
+e) Solicitud de puja 
+f) Respuesta a la puja 
+g) CPM 
+h) Impresion 
+i) Etiqueta
+
+/********************************************************************************************************************************/
+					
+					Administrar para gestionar la configuración de tu red
+
+
+Revisa la configuración de tu red
+
+En la opción Configuración global de la pestaña Administrar, puedes consultar y controlar la configuración de tu red 
+y otras cuestiones administrativas relacionadas con ella, como su nombre visible, la zona horaria, la moneda, las cuentas vinculadas, etc.
+En esta página también puedes consultar los datos de tu red y habilitar o inhabilitar funciones de tu cuenta.
+
+Actualiza los tipos de cambio
+
+Si has habilitado la opción Actualización del tipo de cambio en tu red, puedes ajustar la frecuencia con la que se actualiza.
+
+
+En la columna Actualización del tipo de cambio, selecciona una de estas opciones:
+
+Fijo
+Diariamente
+Mensualmente
+
+
+
+
+
+
+
